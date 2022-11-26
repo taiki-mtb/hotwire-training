@@ -61,3 +61,8 @@ group :development do
   # gem "spring"
 end
 
+gem "kaminari"
+
+gem "ransack"
+
+gem "bootstrap_form"
